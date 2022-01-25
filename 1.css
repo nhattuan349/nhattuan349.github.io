@@ -12,6 +12,7 @@ section div p {
 	font-size: 14px;
 	width: 282px;
 	margin-right: 20px;
+	margin-bottom: 20px;
 	font-family: tahoma;
 }
 section div a {
@@ -25,6 +26,7 @@ section div img {
 	float: right;
 	width: 282px;
 	margin-right: 20px;
+	margin-bottom: 20px;
 }
 
 section {
