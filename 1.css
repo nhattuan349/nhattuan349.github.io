@@ -8,9 +8,14 @@ h1 {
 h1 img	{
 	width: 50;
 }
+
+section div {
+	height: 177px;
+	margin-bottom: 20px;
+}
 section div p {
-	font-size: 14px;
 	width: 282px;
+	font-size: 14px;
 	margin-right: 20px;
 	margin-bottom: 20px;
 	font-family: tahoma;
@@ -26,6 +31,7 @@ section div img {
 	float: right;
 	width: 282px;
 	margin-right: 20px;
+	margin-left: 20px;
 	margin-bottom: 20px;
 	height: 177px;
 }
